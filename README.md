@@ -1,4 +1,6 @@
 # Radius
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsylvainsf%2Fradius.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsylvainsf%2Fradius?ref=badge_shield)
+
 
 Radius is a cloud-native application platform that enables developers and the platform engineers that support them to collaborate on delivering and managing cloud-native applications that follow organizational best practices for cost, operations and security, by default. Radius is an open-source project that supports deploying applications across private cloud, Microsoft Azure, and Amazon Web Services, with more cloud providers to come. 
 
@@ -74,3 +76,7 @@ Please refer to our guide on [Reporting security vulnerabilities](SECURITY.md)
 ## Code of conduct
 
 Please refer to our [Radius Community Code of Conduct](https://github.com/radius-project/community/blob/main/CODE-OF-CONDUCT.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsylvainsf%2Fradius.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsylvainsf%2Fradius?ref=badge_large)
